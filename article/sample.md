@@ -101,3 +101,19 @@ https://zenn.dev/
 ~~テキスト~~
 
 ***
+
+# 外部リンク
+
+note
+
+https://note.com/bkc_1973/n/nc56da9dc3a00
+
+youtube
+
+https://www.youtube.com/watch?v=ofRnP4IT4JY
+
+https://youtu.be/ofRnP4IT4JY
+
+twitter
+
+https://twitter.com/Twitter/status/1462843218446503940
