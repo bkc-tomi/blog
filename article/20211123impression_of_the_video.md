@@ -3,7 +3,7 @@ title: "動画の感想 - この割れ切った世界の片隅で"
 date: "2021/11/23 10:09:56"
 category: "感想"
 topics: ["動画", "youtube", "落合陽一", "newspicks", "この割れ切った世界の片隅で"]
-published: false
+published: true
 ---
 
 # youtubeを見ていて
