@@ -14,7 +14,7 @@ published: false
 
 来年度から本格的に高校の「情報」にもプログラミングの内容が入ってきます。大学共通テストでも疑似言語(DNCL)を使ったプログラミングの内容が入ってきて、進学校だから関係ないとは言っていられない状況になっています。
 
-![擬似言語の例]()
+![擬似言語の例](https://github.com/bkc-tomi/blog/blob/main/src/nscl.jpeg?raw=true)
 
 そんな中、私はpythonを授業で取り扱う言語として決めました。pythonはGoogle Colaboratoryを使うことでウェブ上で実行ができます。また、Google ColaboratoryはAIなどの技術を使うこともでき、本格的なプログラミングの活用も可能です。
 
@@ -26,7 +26,7 @@ published: false
 
 絵や音楽などアートと呼ばれるものをプログラミングで表現することをクリエイティブコーディングと言います。画面上のキャンバスのどこにどのような色でどのような図形を描くかをコンピュータに命令して、絵を描いていきます。私は、2, 3年前からクリエイティブコーディングにハマっていて、たまに描いていました。以下はその例です。
 
-![クリエイティブコーディングの例]()
+![クリエイティブコーディングの例](https://github.com/bkc-tomi/blog/blob/main/src/cc_images.png?raw=true)
 
 クリエイティブコーディングは、コードを書いてコンピュータに絵を描かせます。コンピュータは計算機なので数学を活かしたこれまでにない表現が可能になります。例えば、例に挙げている下の３つは、力学におけるカオスを使いアレンジを加えることで独特の表現をしています。
 
@@ -107,7 +107,7 @@ from google.colab import output
 output.serve_kernel_port_as_window(PORT, path=PATH)
 ```
 
-![]()
+![実行例](https://github.com/bkc-tomi/blog/blob/main/src/screenshot_googleColab.png?raw=true)
 
 ### サーバの起動
 Gドライブをマウントしてコードをを保存する場合は、コードの出力先を指定して実行してください。
@@ -135,8 +135,8 @@ Gドライブのマウントをしていない場合はコメントアウトし�
 
 実行して`https://localhost:5000`にアクセスすると、以下のようなページが開きWeb上でpythonコードを書いてクリエイティブコーディングをすることができます。APIなどはp5jsのサイトの[リファレンス](https://p5js.org/reference/)を参考にすると良いと思います。
 
-![最初の画面]()
-![プロジェクト作成画面]()
-![コーディング画面]()
+![最初の画面](https://github.com/bkc-tomi/blog/blob/main/src/screenshot_mainpage.png?raw=true)
+![プロジェクト作成画面](https://github.com/bkc-tomi/blog/blob/main/src/screenshot_new_project_page.png?raw=true)
+![コーディング画面](https://github.com/bkc-tomi/blog/blob/main/src/screenshot_playground.png?raw=true)
 
 まだ授業では使っていませんが、授業で実践してみたら、その感想もこのブログに残したいと思います。
